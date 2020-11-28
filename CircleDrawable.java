@@ -19,9 +19,9 @@ public class CircleDrawable extends TextureRegionDrawable {
     public CircleDrawable() {
     }
     public CircleDrawable(Pixmap pixmap) {
-        setRegion(pixmap);
+        setPixmap(pixmap);
     }
-    public void setRegion(Pixmap pixmap) {
+    public void setPixmap(Pixmap pixmap) {
         makeCircle(pixmap);
         super.setRegion(new TextureRegion(new Texture(pixmap)));
     }
