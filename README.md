@@ -1,8 +1,7 @@
 # Libgdx : CircleDrawable
 
-# your PIXMAP must use supported alpha format like RGBA8888
-
 [![N|Solid](https://raw.githubusercontent.com/scorpion16/libgdx-CircleDrawable/main/screenshot.jpg)](https://github.com/scorpion16/libgdx-CircleDrawable)
+
 
 # Usage
 ```sh 
@@ -11,6 +10,7 @@ Image image = new Image(new CircleDrawable(pixmap));
 ```
 
 
+# IMPORTANT : your PIXMAP must use supported alpha format like RGBA8888
 
 License
 ----
