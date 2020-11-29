@@ -1,6 +1,6 @@
 # Libgdx : CircleDrawable
 
-#IMPORTANT : NOT WORKED ON ANDROID CORRECTLY... WORKING ON IT
+# your PIXMAP must use supported alpha format like RGBA8888
 
 [![N|Solid](https://raw.githubusercontent.com/scorpion16/libgdx-CircleDrawable/main/screenshot.jpg)](https://github.com/scorpion16/libgdx-CircleDrawable)
 
